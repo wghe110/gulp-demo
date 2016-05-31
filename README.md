@@ -12,6 +12,6 @@
 + gulp
 
 ####使用
-1.克隆git项目到本地
-2.`cnpm install`      安装相关依赖
-3.`gulp`              开启本地服务器、自动编译scss
+1.克隆git项目到本地 <br>
+2.`cnpm install`      安装相关依赖 <br>
+3.`gulp`              开启本地服务器、自动编译scss <br>
