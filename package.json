@@ -1,0 +1,21 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "gulp-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "demo"
+  ],
+  "author": "wghe110",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.12.10",
+    "gulp-ruby-sass": "^2.0.6",
+    "gulp-autoprefixer": "^3.1.0"
+  }
+}
